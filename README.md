@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HDree
 - 👀 I’m interested in machine learning and data analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on medical image analysis
 - 📫 How to reach me ...
 
 <!---
